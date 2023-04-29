@@ -1,4 +1,4 @@
-//João Victor Carvalho Dimas de Oliveira RA: 4231921150;
+
 import java.util.Scanner;
 
 class Exercicio3 {
@@ -6,7 +6,7 @@ class Exercicio3 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        // Entrada dos valores dos coeficientes
+
         System.out.println("Digite o valor de a: ");
         double a = entrada.nextDouble();
 
