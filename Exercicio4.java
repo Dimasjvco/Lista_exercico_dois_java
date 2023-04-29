@@ -2,7 +2,7 @@
 import java.text.Format;
 import java.util.Scanner;
 
-public class Exerc4 {
+public class Exercicio4 {
 
     public static void main(String[] args){
 
