@@ -1,4 +1,4 @@
-//Matheus Felipe Lopes da Silva RA: 4231925981;
+
 import java.util.Scanner;
 
 public class Questao2 {
