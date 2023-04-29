@@ -2,7 +2,7 @@
 
    import java.util.Scanner;
 
-    public class Exerc1 {
+    public class Exercicio1 {
     public static void main(String[] args){
     
     double numero1, numero2, numero3, media;
