@@ -1,10 +1,10 @@
-//Nátali Isaltino Gomes RA: 4231925815;
+
 import java.util.Scanner;
 
-public class Main {
+public class Exercicio5 {
 public static void main(String[] args) {
   
-		// TODO Auto-generated method stub
+		
   int operacao;
   float raio;
 
