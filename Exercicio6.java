@@ -1,8 +1,8 @@
-//Yan Ferreira Leite Vitral RA: 323110102;
+
 import java.util.Random;
 import java.util.Scanner;
 
-public class Questao6 {
+public class Exercicio6 {
 
     public static void main(String[] args) {
 
